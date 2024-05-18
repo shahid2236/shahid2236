@@ -24,7 +24,7 @@ I'm Shahid (@shahid2236), a recent graduate in Computer Engineering with a passi
 
 ## How to Reach Me
 - **Email:** [bhatshahid2236@gmail.com](mailto:bhatshahid2236@gmail.com)
-- **LinkedIn:** [Shahid's LinkedIn](www.linkedin.com/in/shahidbhat36)
+- **LinkedIn:** [Shahid's LinkedIn](www.linkedin.com/in/shahid2236)
 - **Twitter:** [Shahid's X](https://x.com/theshahidbhat)
 
 ## Pronouns
