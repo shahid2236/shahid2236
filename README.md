@@ -1,12 +1,14 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
 ## About Me
-I'm Shahid (@shahid2236), a recent graduate in Computer Engineering with a passion for technology and continuous learning. I am currently focused on enhancing my web development skills and exploring new opportunities.
+I'm Shahid (@shahid2236), a graduate in Computer Engineering with a passion for technology and continuous learning. | Web Development & Designing |
 
 ## Interests
 - **Web Development:** Enjoy creating intuitive and dynamic web applications.
+- **Web Designing:** Designing clean, responsive, and user-focused web experiences.
 - **Open Source:** Enthusiastic about contributing to and learning from open source projects.
 - **Technology Trends:** Keeping up with the latest developments in the tech world.
+- **History, Geopolitics, Literature, Art & Chess** 
 
 ## Past Learning
 - **Artificial Intelligence & Machine Learning:** Completed an internship focusing on AI and ML, where I gained hands-on experience in developing intelligent systems.
@@ -18,20 +20,13 @@ I'm Shahid (@shahid2236), a recent graduate in Computer Engineering with a passi
 - **Modern Web Technologies:** Staying up-to-date with the latest frameworks and tools in web development.
 
 ## Looking to Collaborate On
-- **Open Source Projects:** Keen to contribute to projects that have a meaningful impact.
 - **Innovative Web Solutions:** Interested in collaborating on cutting-edge web technology solutions and startups.
 - **Community Initiatives:** Projects that aim to improve community engagement through technology.
 
 ## How to Reach Me
-- **Email:** [bhatshahid2236@gmail.com](mailto:bhatshahid2236@gmail.com)
+- **Email:** [shahid.workspace36@gmail.com](mailto:shahid.workspace36@gmail.com)
 - **LinkedIn:** [Shahid's LinkedIn](www.linkedin.com/in/shahid2236)
 - **Twitter:** [Shahid's X](https://x.com/theshahidbhat)
-
-## Pronouns
-- He/Him
-
-## Fun Fact
-- 😄 I don't have any fun facts...yet! If you want to connect, just drop a hi!
 
 Thank you for visiting my profile! Feel free to connect, collaborate, or just say hi!
 
