@@ -1,12 +1,11 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 👋 
 
 ## About Me
-I'm Shahid (@shahid2236), a graduate in Computer Engineering with a passion for technology and continuous learning. | Web Development & Designing |
+I'm Shahid (@shahid2236), a graduate in Computer Science Engineering with a passion for technology and continuous learning. | Web Development & Designing |
 
 ## Interests
 - **Web Development:** Enjoy creating intuitive and dynamic web applications.
 - **Web Designing:** Designing clean, responsive, and user-focused web experiences.
-- **Open Source:** Enthusiastic about contributing to and learning from open source projects.
 - **Technology Trends:** Keeping up with the latest developments in the tech world.
 - **History, Geopolitics, Literature, Art & Chess** 
 
@@ -24,11 +23,10 @@ I'm Shahid (@shahid2236), a graduate in Computer Engineering with a passion for 
 - **Community Initiatives:** Projects that aim to improve community engagement through technology.
 
 ## How to Reach Me
-- **Email:** [shahid.workspace36@gmail.com](mailto:shahid.workspace36@gmail.com)
 - **LinkedIn:** [Shahid's LinkedIn](www.linkedin.com/in/shahid2236)
 - **Twitter:** [Shahid's X](https://x.com/theshahidbhat)
 
-Thank you for visiting my profile! Feel free to connect, collaborate, or just say hi!
+Thank you ! Feel free to connect, collaborate, or just say hi!
 
 
 <!---
