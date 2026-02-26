@@ -1,7 +1,7 @@
 # Hi there! 👋 
 
 ## About Me
-I'm Shahid B (@shahid2236), | Web Development & Designing |
+I'm Shahid B (@shahid2236) | Web Development & Designing |
 
 ## Interests
 - **Web Development:** Enjoy creating intuitive and dynamic web applications.
